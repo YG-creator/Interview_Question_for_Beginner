@@ -1,7 +1,7 @@
 # Part 1-3 Network
 
 * [HTTP 의 GET 과 POST 비교](#http의-get과-post-비교)
-* [TCP 3-way-handshake](#tcp-3-way-handshake)
+* [TCP 3-way-handshake vs TCP 4-way-handshake](#tcp-3-way-handshake)
 * [TCP와 UDP의 비교](#tcp와-udp의-비교)
 * [HTTP 와 HTTPS](#http와-https)
   * HTTP 의 문제점들
@@ -33,7 +33,7 @@ _그렇다면 이러한 특성을 이해한 뒤에는 어디에 적용되는지�
 
 </br>
 
-## TCP 3-way Handshake
+## TCP 3-way Handshake 
 
 일부 그림이 포함되어야 하는 설명이므로 링크를 대신 첨부합니다.
 
