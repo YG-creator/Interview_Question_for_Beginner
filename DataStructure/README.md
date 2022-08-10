@@ -1,46 +1,58 @@
 # Part 1-2 DataStructure
 
-[1. List](#1.-List)
+* [List](#1-List)
 
-[2. Stack](#2.-stack)
+  * Array
 
-[3. Queue](#3.-queue)
+  * Linked
 
-[4. Tree](#4.-tree)
+* [Stack](#2-stack)
 
-* Binary Tree
-  * Perfect Binary Tree
-  * Full Binary Tree
-  * Complete Binary Tree
-* BST (Binary Search Tree)
+* [Queue](#3-queue)
 
-[5. Binary Heap](#5.-binary-heap)
+* [Tree](#4-tree)
+  * 정의
+  * 용어
+  * Binary Tree
+  * BST
 
-[6. Red Black Tree](#6.-red-black-tree)
 
-* 정의
-* 특징
-* 사용 이유
-* 삽입
-* 삭제
+* [Binary Heap](#5-binary-heap)
+  * 특징
+  * 종류
 
-[7. Hash](#7.-hash)
+* [Red Black Tree](#6-red-black-tree)
 
-* 문제점
-* 해결법
-  * Open Addressing
-  * Separate Chaining
-* Resize
+  * 정의
 
-[8. Graph](#8.-graph)
+  * 특징
 
-* 정의
-* 용어
-* 구현 방법
-* 탐색법
-* Minimum Spanning Tree
-  * Kruskal algorithm
-  * Prim algorithm
+  * 사용 이유
+
+  * 삽입
+
+  * 삭제
+
+
+* [Hash](#7-hash)
+  * 특징
+  * Hash function
+  * Resize
+
+* [Graph](#8-graph)
+
+  * 정의
+
+  * 용어
+
+  * 구현 방법
+
+  * 탐색법
+
+  * Minimum Spanning Tree
+    * Kruskal algorithm
+    * Prim algorithm
+
 
 [뒤로](https://github.com/YG-creator/Interview_Question_for_Beginner)
 

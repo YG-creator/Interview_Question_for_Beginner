@@ -1,3 +1,23 @@
+# Part 1-6 디자인 패턴
+
+* [디자인 패턴이란?](#1-디자인-패턴이란?)
+* [구조](#2-구조)
+* [분류](3-분류)
+  * 생성 패턴
+  * 구조 패턴
+  * 행위 패턴
+* [디자인 원칙](#4-디자인-원칙)
+  * Design smells
+  * SOLID
+* [종류](5-종류)
+  * Adapter Pattern
+  * Composite Pattern
+  * Factory Method Pattern
+  * Template Method Pattern
+  * Observer Pattern
+  * Singleton Pattern
+  * Strategy Pattern
+
 # 1. 디자인 패턴이란?
 
 재사용성, 호환성, 유지 보수성을 보장하는 소프트웨어 설계 패턴
@@ -106,7 +126,7 @@
 
 
 
-# 5. 디자인 패턴 종류
+# 5. 종류
 
 ## 1. Adapter Pattern
 
