@@ -61,7 +61,7 @@
    * Client와 Server 연결할 때 사용
 
 
-![image-20220331190014861](C:\Users\YG\AppData\Roaming\Typora\typora-user-images\image-20220331190014861.png)
+![image-20220331190014861](md-images/image-20220331190014861.png)
 
 2. 연결 과정
    1) Client가 SYN M 패킷(요청) -> Server
@@ -100,7 +100,7 @@
    * Client와 Server 연결 해제할 때 사용
 
 
-![image-20220331190210993](C:\Users\YG\AppData\Roaming\Typora\typora-user-images\image-20220331190210993.png)
+![image-20220331190210993](md-images/image-20220331190210993.png)
 
 2. 과정
 
